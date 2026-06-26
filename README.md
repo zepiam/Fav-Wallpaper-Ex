@@ -1,3 +1,7 @@
+[Download](https://github.com/zepiam/Fav-Wallpaper-Ex/releases/tag/latest)
+> **Note EN:** Download .zip and extract to your PC.
+> **Note TH:** เข้าไปโหลดไฟล์ .zip นำไปแตกในคอมของคุณ
+
 # Fav Wallpaper Ex
 
 Fav Wallpaper Ex is a Windows desktop application built with C# that makes managing your wallpapers simple and hassle-free.
