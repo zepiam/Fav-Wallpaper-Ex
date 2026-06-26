@@ -1,6 +1,8 @@
+# DOWNLOAD - ดาวน์โหลดโปรแกรม 
 [Download](https://github.com/zepiam/Fav-Wallpaper-Ex/releases/tag/latest)
-> **Note EN:** Download .zip and extract to your PC.
-> **Note TH:** เข้าไปโหลดไฟล์ .zip นำไปแตกในคอมของคุณ
+> **Note:** Download .zip and extract to your PC. เข้าไปโหลดไฟล์ .zip นำไปแตกในคอมของคุณได้เลย
+
+---
 
 # Fav Wallpaper Ex
 
@@ -47,6 +49,12 @@ Fav Wallpaper Ex solves this by detecting your monitor's resolution. It gives yo
 1. **Monitor Glitches:** If you frequently swap GPU ports, Windows might get confused with Monitor IDs. If the app acts up, go to **System Monitor Management** and check for "Ghost Monitors." If you see any, select them and click **Uninstall**. Restart your PC, and it will be back to normal.
 2. **Startup Issues:** If you move the app's folder after its first run, "Startup with Windows" might stop working. Just toggle the setting OFF and ON again in the Settings menu to refresh the path.
 3. **Display Issues:** If thumbnails don't load or an overlay gets stuck, try restarting the app and clicking **Generate** in the Dashboard or Settings.
+
+---
+
+### Automatic Update
+
+Auto-Update: You can update the app directly through the interface whenever a new version is released. No need to download the .zip/.exe file again!
 
 ---
 
@@ -105,6 +113,12 @@ Fav Wallpaper Ex เป็นโปรแกรมช่วยจัดการ
 1. **ปัญหา Monitor ID สับสน:** หากคุณมีการสลับช่องเสียบสายจอบนการ์ดจอ (GPU port) บ่อยๆ อาจทำให้ Windows สับสน Monitor ID หรือเกิด ID ซ้ำกันจนโปรแกรมแสดงผลผิดปกติ หากเจอกรณีนี้ ให้เข้าไปที่เมนู **System Monitor Management** ในส่วนของ **Ghost Monitor** หากพบจอค้างอยู่ให้เลือกและกด **Uninstall** ระบบจะไปลบ Registry Monitor ใน Device Manager ให้ จากนั้นเมื่อ Restart PC กลับมา โปรแกรมจะใช้งานได้ตามปกติ
 2. **ปัญหา Startup ไม่ทำงาน:** หากคุณย้ายตำแหน่งโฟลเดอร์ที่ตั้งของโปรแกรมหลังจากเปิดใช้งานไปแล้วครั้งหนึ่ง อาจทำให้ระบบ Startup พร้อม Windows ไม่ทำงาน แก้ไขได้โดยการเข้าไปกด ปิด (OFF) และ เปิด (ON) ส่วน Startup with Windows ใน Setting อีกครั้งเพื่อให้ระบบจดจำตำแหน่งใหม่
 3. **ปัญหาการแสดงผลค้าง:** หากระบบ Generate ภาพไม่สำเร็จแล้วโปรแกรมแสดงผลผิดปกติ เช่น หน้า Overlay ค้าง หรือภาพใน Gallery ไม่ยอมแสดง แนะนำให้ปิดโปรแกรมแล้วเปิดใหม่ จากนั้นกดสั่ง Generate ผ่าน Main Dashboard หรือใน Setting ให้เสร็จสิ้น โปรแกรมจะกลับมาแสดงผลปกติ
+
+---
+
+### ระบบอัพเดทอัตโนมัติ
+
+Auto-Update: คุณสามารถโหลดอัพเดทโปรแกรมได้โดยตรง ไม่จำเป็นต้องโหลดโปรแกรมไปลงทับใหม่เลย เมื่อมีเวอร์ชั่นใหม่มาที่ระบบจะทำการแจ้งเตือนให้ทราบเองและกดอัพเดทโดยตรงได้เลย
 
 ---
 
