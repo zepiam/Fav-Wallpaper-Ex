@@ -1,5 +1,5 @@
 # DOWNLOAD - ดาวน์โหลดโปรแกรม 
-[Download](https://github.com/zepiam/Fav-Wallpaper-Ex/releases/tag/latest)
+[Download Fav Wallpaper Ex](https://github.com/zepiam/Fav-Wallpaper-Ex/releases/tag/latest)
 > **Note:** Download .zip and extract to your PC. เข้าไปโหลดไฟล์ .zip นำไปแตกในคอมของคุณได้เลย
 
 ---
