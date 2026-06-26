@@ -6,6 +6,8 @@
 
 # Fav Wallpaper Ex
 
+![Fav Wallpaper Ex Preview](https://github.com/zepiam/Fav-Wallpaper-Ex/blob/main/Untitled%20(Medium).jpg?raw=true)
+
 Fav Wallpaper Ex is a Windows desktop application built with C# that makes managing your wallpapers simple and hassle-free.
 
 ### The Problem
